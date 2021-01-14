@@ -22,7 +22,9 @@ body {
     font-weight: 900;
     text-transform: uppercase;
 }
-
+.colour-change{
+    color: #FA6862;
+}
 /* Spacing between the header and details section */
 .section-spacing{
     margin-top: 50px;
